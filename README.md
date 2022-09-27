@@ -8,3 +8,11 @@ com Javascript, como o checkbox, foi bastante divertido dar vida a uma pequena f
 dedicação e foco, pesquisando sobre o Javascrip em especifico oque eu podia acrescenntar de funções para aperfeioar a tela de login.
 Quando eu tive a iniciativa de fazer a criação dessa tela de login, eu entrei no jogo "League of legends" e olhei detalhadamente cada função da tela de login,
 olhei também todos os detalhes de css3, como cores de letras e também as fontes e formatos das letras.
+
+
+
+
+
+
+
+
